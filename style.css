@@ -1,11 +1,5 @@
-#cadastro input[type=text], #cadastro input[type=tel], #cadastro input[type=email] {
-  margin: auto;
-  width: 40%;
-	color: black;
-	background-color: white;  
-  	margin-top: 8px;
-  	margin-bottom: 8px;
-  	margin-right: 16px;
-  	margin-left: 0px;
-    padding: 6px 12px;
-}
+<style>
+.input {font-size: 300%}
+.h4 {color: blue;}
+.input {color: blue;}
+</style>
