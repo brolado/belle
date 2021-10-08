@@ -1,9 +1,4 @@
-<style>
 
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: black;
-  opacity: 1; /* Firefox */
-}
 
 input {
   margin: auto;
@@ -46,6 +41,3 @@ button:disabled{
   margin: 4px 2px;
   padding: 14px 20px;
 }
-
-
-</style>
